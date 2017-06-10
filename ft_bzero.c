@@ -6,7 +6,7 @@
 /*   By: dnetshik <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/06/01 11:51:15 by dnetshik          #+#    #+#             */
-/*   Updated: 2017/06/01 12:18:33 by dnetshik         ###   ########.fr       */
+/*   Updated: 2017/06/10 10:27:11 by dnetshik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ void	ft_bzero(void *s, size_t n)
 	size_t i;
 
 	i = 0;
-	while ( i < n)
+	while (i < n)
 	{
 		((char *)s)[i] = 0;
 		i++;

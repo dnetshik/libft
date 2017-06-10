@@ -5,12 +5,11 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: dnetshik <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2017/05/29 11:55:47 by dnetshik          #+#    #+#             */
-/*   Updated: 2017/05/29 12:36:29 by dnetshik         ###   ########.fr       */
+/*   Created: 2017/06/07 12:38:23 by dnetshik          #+#    #+#             */
+/*   Updated: 2017/06/10 10:03:17 by dnetshik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #include "libft.h"
 
 int		ft_isdigit(int d)

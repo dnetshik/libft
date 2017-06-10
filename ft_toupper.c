@@ -6,11 +6,10 @@
 /*   By: dnetshik <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/05/29 12:13:47 by dnetshik          #+#    #+#             */
-/*   Updated: 2017/05/29 13:18:28 by dnetshik         ###   ########.fr       */
+/*   Updated: 2017/06/10 10:04:19 by dnetshik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #include "libft.h"
 
 int		ft_toupper(int u)

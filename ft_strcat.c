@@ -6,13 +6,13 @@
 /*   By: dnetshik <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/05/31 16:18:27 by dnetshik          #+#    #+#             */
-/*   Updated: 2017/06/01 13:19:28 by dnetshik         ###   ########.fr       */
+/*   Updated: 2017/06/10 10:09:22 by dnetshik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char	*ft_strcat(char *s1, char *s2)
+char	*ft_strcat(char *s1, const char *s2)
 {
 	int len1;
 	int i;

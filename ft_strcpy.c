@@ -6,14 +6,13 @@
 /*   By: dnetshik <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/05/29 08:02:54 by dnetshik          #+#    #+#             */
-/*   Updated: 2017/06/01 09:57:40 by dnetshik         ###   ########.fr       */
+/*   Updated: 2017/06/10 10:03:25 by dnetshik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #include "libft.h"
 
-char	*ft_strcpy(char *dest, char *src)
+char	*ft_strcpy(char *dest, const char *src)
 {
 	int i;
 
